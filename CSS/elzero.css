@@ -137,12 +137,12 @@ ul {
 }
 
 .dots-up {
-    top: 150px;
+    top: 170px;
     right: 0;
 }
 
 .dots-down {
-    bottom: 150px;
+    bottom: 170px;
     left: 0;
 }
 /* End Global Rules */
